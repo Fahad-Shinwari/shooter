@@ -1,10 +1,10 @@
 # `first-person-shooter`
 
-A first-person shooter game foundation made with [LUME](https://lume.io/),
+A first-person shooter game foundation made with three JS (https://threejs.org/), [LUME](https://lume.io/),
 [Solid.js](https://solidjs.com/) (and libs), and
 [Meteor](https://www.meteor.com/).
 
-LUMECraft's `first-person-shooter` aims to be an open-source starting point for
+This game aims to be an open-source starting point for
 FPS games written declaratively using LUME's 3D HTML elements with Solid.js
 templating and reactivity, and realtime multiplayer connectivity powered by
 Meteor.js. Eventually it will be skinnable, moddable, and more.
